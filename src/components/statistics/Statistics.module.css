@@ -1,0 +1,11 @@
+.feedback {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.stats__item {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: #f93a13;
+}

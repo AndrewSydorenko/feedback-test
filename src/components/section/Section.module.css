@@ -1,0 +1,15 @@
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: #f93a13;
+    display: flex;
+    align-items: center;
+}
